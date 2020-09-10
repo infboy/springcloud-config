@@ -1,4 +1,4 @@
 config:
  info: "version-6.0"
 jpa:
- showme:aaaaaaaa
+ show-sql:bbbbbbbbbbbbbbb
